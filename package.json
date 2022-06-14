@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "nodemon",
     "spread": "nodemon ./spread.js",
+    "class": "nodemon ./js/class.js",
+    "class-extend": "nodemon ./js/class-extend.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
