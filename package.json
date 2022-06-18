@@ -5,9 +5,11 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
-    "spread": "nodemon ./spread.js",
+    "spread": "nodemon ./js/spread.js",
     "class": "nodemon ./js/class.js",
     "class-extend": "nodemon ./js/class-extend.js",
+    "map": "nodemon ./js/map.js",
+    "arrowFun": "nodemon ./js/arrowFun.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
