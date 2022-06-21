@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon",
+    "dev": "nodemon",    
     "spread": "nodemon ./js/spread.js",
     "class": "nodemon ./js/class.js",
     "class-extend": "nodemon ./js/class-extend.js",
     "map": "nodemon ./js/map.js",
     "arrowFun": "nodemon ./js/arrowFun.js",
+    "class-router": "nodemon ./js/class-router.js",
+    "desctructuring": "nodemon ./js/desctructuring.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
