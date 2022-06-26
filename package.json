@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon",    
+    "dev": "nodemon",
+    "callback": "nodemon ./js/callback.js",
     "spread": "nodemon ./js/spread.js",
     "class": "nodemon ./js/class.js",
     "class-extend": "nodemon ./js/class-extend.js",
