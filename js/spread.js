@@ -47,3 +47,10 @@ marks[0] = 1000;
 
 console.log(marks);
 console.log(marksCopy);
+
+
+function greet(name) {
+    return `Hello,  ${name} how are you doing today?`;
+    console.log(name.toString());
+
+};
